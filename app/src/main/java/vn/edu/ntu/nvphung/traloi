@@ -1,0 +1,9 @@
+Trả lời câu hỏi:
+câu 4:
++Phương thức vòng đời được gọi khi ứng dụng đang chạy: onCreate,onStart,onResume.
++Phương thức vòng đời được gọi khi bấm vào nút back: onPause,onStop,onDestroy.
++Phương thức vòng đời được gọi khi mở lại ứng dụng: onCreate,onStart,onResume.
+câu 5:
++Phương thức vòng đời được gọi khi ứng dụng đang chạy: onCreate,onStart,onResume.
++Phương thức vòng đời được gọi khi bấm vào nút home: onPause,onStop.
++Phương thức vòng đời được gọi khi mở lại ứng dụng: onCreate,onStart,onResume.
